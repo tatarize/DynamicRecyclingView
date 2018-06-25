@@ -1,3 +1,6 @@
+DO NOT USE THIS.
+USE A RECYCLERVIEW.
+
 # DynamicRecyclingView
 ListView and GridView Dynamic Recycling.
 https://www.youtube.com/watch?v=aae7Kyz3S00 See it in action,
