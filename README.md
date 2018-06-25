@@ -1,5 +1,5 @@
-DO NOT USE THIS.
-USE A RECYCLERVIEW.
+# DO NOT USE THIS.
+# USE A RECYCLERVIEW.
 
 # DynamicRecyclingView
 ListView and GridView Dynamic Recycling.
